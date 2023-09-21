@@ -1,1 +1,1 @@
-# svarog.faizo.net
+# Svarog.Faizo.Net
