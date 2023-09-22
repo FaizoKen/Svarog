@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Svarog.Faizo.Net</title>
-	<atom:link href="https://faizoken.github.io/svarog.faizo.net/feed/" rel="self" type="application/rss+xml" />
-	<link>https://faizoken.github.io/svarog.faizo.net/</link>
+	<atom:link href="https://faizoken.github.io/Svarog.Faizo.Net/feed/" rel="self" type="application/rss+xml" />
+	<link>https://faizoken.github.io/Svarog.Faizo.Net/</link>
 	<description></description>
 	<lastBuildDate>Sat, 16 Sep 2023 09:58:02 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=6.3.1</generator>
 
 <image>
-	<url>https://faizoken.github.io/svarog.faizo.net/wp-content/uploads/2023/09/wp7tw499-150x150.png</url>
+	<url>https://faizoken.github.io/Svarog.Faizo.Net/wp-content/uploads/2023/09/wp7tw499-150x150.png</url>
 	<title>Svarog.Faizo.Net</title>
-	<link>https://faizoken.github.io/svarog.faizo.net/</link>
+	<link>https://faizoken.github.io/Svarog.Faizo.Net/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Index Page</title>
-		<link>https://faizoken.github.io/svarog.faizo.net/2023/09/16/elementor-852/</link>
-					<comments>https://faizoken.github.io/svarog.faizo.net/2023/09/16/elementor-852/#respond</comments>
+		<link>https://faizoken.github.io/Svarog.Faizo.Net/2023/09/16/elementor-852/</link>
+					<comments>https://faizoken.github.io/Svarog.Faizo.Net/2023/09/16/elementor-852/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 16 Sep 2023 09:57:04 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://faizoken.github.io/svarog.faizo.net/?p=852</guid>
+		<guid isPermaLink="false">https://faizoken.github.io/Svarog.Faizo.Net/?p=852</guid>
 
 					<description><![CDATA[Index Page]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="852" class="elementor elementor-852" data-elementor-post-type="post">
@@ -51,7 +51,7 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://faizoken.github.io/svarog.faizo.net/2023/09/16/elementor-852/feed/</wfw:commentRss>
+					<wfw:commentRss>https://faizoken.github.io/Svarog.Faizo.Net/2023/09/16/elementor-852/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
